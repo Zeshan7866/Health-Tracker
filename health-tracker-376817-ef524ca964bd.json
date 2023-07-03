@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "health-tracker-376817",
+  "private_key_id": "ef524ca964bddc4760018ecae3da268c93440655",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCoBydKoZQTG0wh\naYoDRn+fU4bmXBN7ahS/1/frqV6+RjFQRz7rg10dSzS/miPxvAd2TdFwRvnFOlNs\n1cATrUj1f6U2+1dNloG71MikDITRxIQPF35YLjM1ACCBBgQ/tRcIDOV9zQdMfHZU\nOilLaEUBov7uMaNVce3cRaB44URp9OVR5TJ7JefpDdhXnG0u1IMHdO3D5C5uVF0l\nfKY3OSHm5QLi7etGAsxpdPUAEzsc53hLxxnm5RdWyxeT8Ej9kcMK6zur1uhsIllZ\nkMhITGHg8lbSfziIsfkMtSLtrffJdgKcj7bmtpMTo5aVnpe+mtWHATkRHmY//Mnh\n2x1N/sk3AgMBAAECggEAAxt+woaScngCxGtrPfxDx/KHgCMbySCBGbsovpb3RZWO\nu+lVZI2dXzlQ1GpJV+MeUDXINcdaPyeA+3ZIgxSlUMT3jTjAuJKb+5lHzKDeo/J6\nbr0EfST9lXFXKIuv8G2s610xsU3lYKi8l3or4VUgUZNuG4GXf7EHsRcojJO97Cev\nmJvFmLLCFkYwzHRVuROmkr0VhJlsntLIvMAKGcZQh0nRdjiSlS9jLs9h/VomSUzH\ngwlK+BnjNMO/7N8WRY1Q6w+ak031GLooyCgoHmFMzWIMxr7xDdS2ki+tCRlMqJDJ\nptAVYueOKkijayjStm3H2eATFjXZqMEAknfotJo1IQKBgQDX2I3BM5BBOwwHG7Ht\nck5cKDdJ1FuKkTJanif+Ap4F2/qwkepMqc/H11PeJtmiddcmkl1nl2ZeN70bQbiI\nMQMlDYhISDKxRZrR3o9/zeu3BAQNYOUbeb+d7Y7j1nl26AB0vZdguq7lk34o5Qmy\nOqVc+M57WrdJbgx9+gVpMoQe3QKBgQDHSVEQBMOIC7sK+O5Dc5LmJ/kmiYaxVGMo\npZUcapc+WCYmX8rXsOe+030DQs5fURU3kmDS93IyOXdzUZTfFHWX/vdOBb8qwUzp\n1756oqHlcC7jC244xsIc1St66e7aC2XgwQhY656vpZLnZVX6y6t8AfaNEkwalIt5\npCRzycFFIwKBgAbXMR7nYHIAyg/Lm+b3kW4wRBhN55zLnznp+0B8mr96ykYgSbmm\nRBSESX8n4gvZCjmJt/YZgUAJKjAb9Bo023GoLSKFTz35A8AU+p1FTGwfb3VxFbG6\nOQ1rQvULjgvrrGAGxi5lnDdgZkYrhBQm8aixpfGY3WgxWaoAa317AV7tAoGBAKOv\n/ttPbmOibwG2Mc5JcdGF58nVkEK7c68BQpbSnmPg94TxjaTYc6F0COzSxLvZ17mL\ni+f8w1mphgm8arFJFsW/8NWvNrQhjdFNGfGU/7F7Eaf/zYrpBqu0FECjQULrtcSE\nCR0we2j+cMmLnLGg9LuoySBadRQoCt/hCOfqQctNAoGBAIYaYG7C3Hr0furIfkAE\nYcmosUvuvgFQ8uLP7gaAErl5JIrIX5wyvBpKAeLQSajzoHqgdhbYEa0bEJgtWf6Z\nTN1zc4bXv3XHjVjonTuxfM/FYBgGXrEWmoc3G8cDVAPjAdD9Z4WryiA6T5Pr38RE\n8TS7LkUM8iJRDjMI3Nd4pWe2\n-----END PRIVATE KEY-----\n",
+  "client_email": "health-tracker@health-tracker-376817.iam.gserviceaccount.com",
+  "client_id": "114320500101002956330",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/health-tracker%40health-tracker-376817.iam.gserviceaccount.com"
+}
